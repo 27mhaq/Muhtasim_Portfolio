@@ -1,1 +1,1 @@
-alert("This page is still Under Maintinces");
+// alert("This page is still Under Maintinces");
